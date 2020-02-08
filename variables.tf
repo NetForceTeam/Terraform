@@ -7,7 +7,7 @@ variable "region_zone" {
 }
 
 variable "project_name" {
-  description = "The ID of the Google Cloud project"
+  description = "apt-hold-267119"
 }
 
 variable "credentials_file_path" {
